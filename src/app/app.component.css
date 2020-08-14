@@ -1,0 +1,36 @@
+.code-container {
+  color: #00ff6a;
+  font-weight: bold;
+  margin: 0;
+  font-size: 1.1rem;
+  padding: 5vh 0 10vh 10vh;
+}
+
+.status-wrapper {
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.start-hacking-hint {
+  color: #c3c3c3;
+  font-size: 1.5rem;
+}
+
+.card {
+  font-size: 2rem;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.denied {
+  color: red;
+}
+
+.granted {
+  color: rgb(28, 224, 28);
+}

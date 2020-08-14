@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hackertyper"
+    }
+  },
+  "defaultProject": "hackertyper",
+  "cli": {
+    "analytics": "aeea865f-ea09-47a7-a051-ab8d5a9ab7be"
+  }
 }

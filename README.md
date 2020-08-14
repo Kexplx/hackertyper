@@ -1,4 +1,4 @@
-# Just start typing to look cool
+# Just start typing
 
 ## Ctrl + Backspace - Access denied
 
